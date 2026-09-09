@@ -1,15 +1,16 @@
-# Instructions
+# Instructions (Read this first)
 
-This repo uses a **PR-based** submission workflow.
+This repo uses a **review + approve** workflow.
 
-## Golden rule
-You only edit:
+## The one rule that matters
+Only edit your folder:
 `02_SUBMISSIONS/<your-github-username>/`
 
-## What “approved” means
-Your onboarding is **approved when your Pull Request is merged**.
+## If you’ve never used GitHub
+Use the “GitHub website only” steps in the main README.
+You do NOT need the command line.
 
-## Getting help
-If you get stuck:
-- Post a comment on your PR describing what’s blocked.
-- Include screenshots of errors if relevant.
+## How to get help fast
+- Open your PR even if it’s not perfect.
+- In the PR description, write what you’re unsure about.
+- A lead will comment with what to fix.

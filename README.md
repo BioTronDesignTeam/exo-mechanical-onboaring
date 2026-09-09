@@ -1,30 +1,43 @@
-# EXO Mechanical Onboarding — Submissions Repo
+# EXO Mechanical Onboarding — Submissions
 
-This repository is the **submission portal** for EXO mechanical onboarding.  
-You will submit your work via a **Pull Request (PR)**. Once your PR is **merged**, your onboarding is considered **approved**.
+This repository is the **dropbox** for EXO mechanical onboarding submissions.
 
-## What you submit
-Submit files only inside your personal folder:
+You do **NOT** need to know Git/GitHub deeply to submit.
+If you can upload files and click “Create pull request,” you’re good.
+
+## What “done” means
+✅ Your onboarding is considered **approved when your Pull Request (PR) is merged** by a lead.
+
+## Where to put your files (IMPORTANT)
+You must put everything in your personal folder:
 
 `02_SUBMISSIONS/<your-github-username>/`
 
-Examples of good submission artifacts:
-- A short writeup (`README.md` or `report.pdf`)
-- Screenshots (`.png` / `.jpg`)
-- Drawings (`.pdf`)
-- Exported models (`.step` / `.stl`) if requested
+Examples:
+- `02_SUBMISSIONS/jane-doe/`
+- `02_SUBMISSIONS/stephenhowe/`
 
-## Submission steps (required)
-1. Create a new branch:
-   - `submission/<your-github-username>`
-2. Create your folder:
-   - `02_SUBMISSIONS/<your-github-username>/`
-3. Add your files (and a short writeup).
-4. Open a Pull Request into `main`.
-5. Respond to review comments until approved.
-6. When your PR is merged → you are done.
+Do **not** edit other folders.
 
-## Rules
-- Do **not** edit files outside your own folder in `02_SUBMISSIONS/`.
-- Do **not** upload raw SolidWorks assemblies unless explicitly requested (they are large and fragile).
-- Keep file names clear and versioned (see submissions README).
+## Super simple submission (GitHub website only)
+1. Go to `02_SUBMISSIONS/`
+2. Click **Add file → Create new file** (or **Upload files**)
+3. Create your folder by naming your file like:
+   `02_SUBMISSIONS/<your-github-username>/README.md`
+4. Add your writeup + upload any screenshots/PDFs/exports.
+5. GitHub will prompt you to **Propose changes** and then **Create pull request**.
+6. Wait for review comments and update your PR if requested.
+
+## What to include
+Minimum:
+- `README.md` writeup (what you did + screenshots)
+- Any required files (PDF drawings, STEP/STL exports, etc.)
+
+Recommended:
+- Screenshots showing your final result
+- A short “what I’d improve next” section
+
+## Rules (keep it simple)
+- Only edit your own folder in `02_SUBMISSIONS/`.
+- Don’t upload raw SolidWorks assemblies unless explicitly requested.
+- Use clear file names with versions (see `02_SUBMISSIONS/README.md`).
